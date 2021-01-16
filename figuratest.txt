@@ -1,0 +1,6 @@
+Sid$I$$$I$$$$$$$
+Start 478 150 10 6 0
+A 435 241 6 7 0
+A>5 418 330 7 8 9
+A mai mare ca cinci 254 450 8 0 0
+A mai mic ca cinic 503 449 9 0 0

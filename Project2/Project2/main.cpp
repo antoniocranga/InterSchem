@@ -1970,6 +1970,7 @@ void Button::update(const Vector2f mousePos, Event event)
 			drumCorect.clear();
 			vectorNoduri.clear();
 			arbore = nullptr;
+			id = 1;
 			}
 			else if (this->instructiune == "Start")
 			{

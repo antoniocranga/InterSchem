@@ -1,120 +1,122 @@
-﻿  main.cpp
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(283): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(293): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(438): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(456): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(488): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(541): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(553): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(559): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(566): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(574): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(629): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(635): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(639): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(639): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(640): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(644): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(644): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(645): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(649): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(649): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(650): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(657): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(664): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(669): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(674): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(681): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(687): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(693): warning C4305: 'return': truncation from 'int' to 'float'
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(743): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(744): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(745): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(746): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(747): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(748): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(749): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(750): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(752): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(753): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(754): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(755): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(756): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(757): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(758): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(759): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(760): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(761): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(762): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(767): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(768): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(857): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+﻿  Button.cpp
+  main.cpp
+f:\interschem\interschem\project2\project2\main.cpp(283): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(293): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(438): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(456): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(488): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(541): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(553): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(559): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(566): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(574): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(629): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(635): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(639): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(639): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(640): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(644): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(644): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(645): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(649): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(649): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(650): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(657): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(664): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(669): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(674): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(681): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(687): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(693): warning C4305: 'return': truncation from 'int' to 'float'
+f:\interschem\interschem\project2\project2\main.cpp(743): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(744): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(745): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(746): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(747): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(748): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(749): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(750): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(752): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(753): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(754): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(755): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(756): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(757): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(758): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(759): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(760): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(761): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(762): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(767): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(768): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(857): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(858): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(858): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(890): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(890): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(891): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(891): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(912): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(912): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(913): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(913): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(980): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1031): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1214): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1460): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(980): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1031): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1122): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1214): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1460): warning C4244: 'argument': conversion from 'unsigned __int64' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1478): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1480): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1485): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1478): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1480): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1485): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1486): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1486): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1490): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1490): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1491): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(1491): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\textbox.h(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(2085): warning C4390: ';': empty controlled statement found; is this the intent?
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(539): warning C4715: 'Prioritate': not all control paths return a value
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(798): warning C4715: 'ValoareFunctie': not all control paths return a value
-c:\users\andre\source\repos\sfmlfolder\interschem\project2\project2\main.cpp(1260): warning C4715: 'intraPeRepetitieIar': not all control paths return a value
-  Project2.vcxproj -> C:\Users\andre\source\repos\SFMLFolder\Interschem\Project2\x64\Debug\Project2.exe
+f:\interschem\interschem\project2\project2\textbox.h(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\interschem\interschem\project2\project2\main.cpp(2086): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+f:\interschem\interschem\project2\project2\main.cpp(539): warning C4715: 'Prioritate': not all control paths return a value
+f:\interschem\interschem\project2\project2\main.cpp(798): warning C4715: 'ValoareFunctie': not all control paths return a value
+f:\interschem\interschem\project2\project2\main.cpp(1260): warning C4715: 'intraPeRepetitieIar': not all control paths return a value
+  Project2.vcxproj -> F:\Interschem\InterSchem\Project2\x64\Debug\Project2.exe
