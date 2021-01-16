@@ -1,0 +1,4 @@
+1.Pentru salvarea în fișier trebuie scris numele fișierului în caseta text + extensia .txt(EX: schema.txt) .	
+2.Codificarea se poate realiza doar după executarea programului .
+3.Modulul in decizie se realizează astfel (A%B) 
+
